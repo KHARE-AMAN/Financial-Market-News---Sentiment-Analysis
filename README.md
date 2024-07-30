@@ -23,8 +23,5 @@ The notebook specifically addresses the issue of "Medium" values by:
 * **(Replace with your specific data cleaning step)**
 * Explaining the reason behind this choice (e.g., ensuring consistency for numerical analysis).
 
-**Analysis**
-
-(If applicable, provide a brief explanation of the data exploration or analysis)
 
 
